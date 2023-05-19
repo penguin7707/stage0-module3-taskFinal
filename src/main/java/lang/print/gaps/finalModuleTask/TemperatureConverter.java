@@ -5,4 +5,5 @@ public class TemperatureConverter {
         double temperatureFahrenheit = temperatureCelsius*1.8 + 32;
         System.out.format("%.1f", temperatureFahrenheit);
     }
+
 }
